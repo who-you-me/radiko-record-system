@@ -12,6 +12,8 @@ import requests
 
 # sudo apt install swftools
 # sudo apt install rtmpdump
+# sudo apt install ffmpeg
+# sudo apt install gpac
 
 
 class Radiko(object):
